@@ -11,3 +11,5 @@ python3 -m http.server -p 9000
 This will run a ver simple web server with the document root in the top level repo directory.
 
 then click on `http://localhost:9000/`
+
+![What you should see at localhost:9000](./simplestyling.png)
