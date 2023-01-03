@@ -1,4 +1,4 @@
-# SeeEssEssBeginnings
+# CSS (SeeEssEss) Beginnings
 
 This repo is aimed at showing how basic HTML can be styled simply and easily for ZipCode projects.
 
